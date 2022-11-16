@@ -1,2 +1,2 @@
-# ds-space-ProjetoEscolaUm
-Projeto para conseguir nota do professor João.
+# ds-space-ProjetoEscola
+# Sistema para uma escola
